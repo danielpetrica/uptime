@@ -1,8 +1,8 @@
 [
   {
     "name": "Danielpetrica.com",
-    "url": "danielpetrica.com",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://danielpetrica.com",
+    "icon": "https://favicons.githubusercontent.com/danielpetrica.com",
     "slug": "danielpetrica-com",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
