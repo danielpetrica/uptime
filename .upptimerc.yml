@@ -1,7 +1,7 @@
 # Change these first
 owner: danielpetrica # Your GitHub username
 repo: uptime # Your GitHub repository name
-
+user-agent: danielpetrica
 # Add your sites here
 sites:
     - name: Danielpetrica.com
