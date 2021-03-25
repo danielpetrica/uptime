@@ -6,6 +6,8 @@ repo: uptime # Your GitHub repository name
 sites:
     - name: Danielpetrica.com
       url: https://danielpetrica.com
+    - name: Strapi
+      url: https://strapi.padserver.xyz/
 #   - name: Google
 #     url: https://www.google.com
 #   - name: Wikipedia
