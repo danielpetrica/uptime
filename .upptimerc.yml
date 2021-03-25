@@ -8,6 +8,10 @@ sites:
       url: https://danielpetrica.com
     - name: Strapi
       url: https://strapi.padserver.xyz/
+    - name: UnioneUniversitaria.it
+      url: https://www.unioneuniversitaria.it
+    - name: LoStrilloneUniversitario.it
+      url: https://www.lostrilloneuniversitario.it/
 #   - name: Google
 #     url: https://www.google.com
 #   - name: Wikipedia
