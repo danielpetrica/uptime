@@ -25,8 +25,6 @@ sites:
 #     url: https://www.google.com
     - name: H24
       url: $SECRET_SITE_H24
-    - name: Home Server Status
-      url: $SECRET_SITE_HOME_SERVER
 #   - name: TCP ping
 #     url: 1.1.1.1
 
