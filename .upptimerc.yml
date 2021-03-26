@@ -23,8 +23,8 @@ sites:
 #   - name: Test for HEAD
 #     method: HEAD
 #     url: https://www.google.com
-#   - name: Secret Site
-#     url: $SECRET_SITE
+    - name: H24
+      url: $SECRET_SITE_h24
 #   - name: TCP ping
 #     url: 1.1.1.1
 
