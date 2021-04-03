@@ -76,17 +76,17 @@
     "url": "$SECRET_SITE_H24",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "h24",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 525,
-    "timeWeek": 477,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 2496,
+    "timeDay": 14721,
+    "timeWeek": 4032,
+    "timeMonth": 2496,
+    "timeYear": 2496,
     "dailyMinutesDown": {}
   }
 ]
