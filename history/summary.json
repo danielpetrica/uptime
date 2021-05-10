@@ -88,5 +88,23 @@
     "timeMonth": 634,
     "timeYear": 1143,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "reggio",
+    "url": "$SITE_REGGIO",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "reggio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1191,
+    "timeDay": 1191,
+    "timeWeek": 1191,
+    "timeMonth": 1191,
+    "timeYear": 1191,
+    "dailyMinutesDown": {}
   }
 ]
