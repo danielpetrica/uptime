@@ -22,17 +22,17 @@
     "url": "https://strapi.padserver.xyz/",
     "icon": "https://favicons.githubusercontent.com/strapi.padserver.xyz",
     "slug": "strapi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 456,
-    "timeWeek": 485,
-    "timeMonth": 491,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 436,
+    "timeWeek": 475,
+    "timeMonth": 489,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 1596,
     "timeDay": 1125,
     "timeWeek": 1510,
-    "timeMonth": 2169,
+    "timeMonth": 2206,
     "timeYear": 1596,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1716,
     "timeDay": 1195,
     "timeWeek": 1947,
-    "timeMonth": 1657,
+    "timeMonth": 1676,
     "timeYear": 1716,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 650,
     "timeDay": 419,
     "timeWeek": 434,
-    "timeMonth": 480,
+    "timeMonth": 483,
     "timeYear": 650,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 870,
     "timeDay": 778,
     "timeWeek": 912,
-    "timeMonth": 851,
+    "timeMonth": 857,
     "timeYear": 870,
     "dailyMinutesDown": {}
   }
