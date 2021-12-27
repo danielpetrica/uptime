@@ -14,6 +14,8 @@ sites:
       url: https://www.unioneuniversitaria.it
     - name: LoStrilloneUniversitario.it
       url: https://www.lostrilloneuniversitario.it/
+    - name: Polifemofe.it
+      url: https://polifemofe.it/
 #   - name: Google
 #     url: https://www.google.com
 #   - name: Wikipedia
