@@ -3,6 +3,8 @@ owner: danielpetrica # Your GitHub username
 repo: uptime # Your GitHub repository name
 user-agent: danielpetrica
 # Add your sites here
+assignees:
+        - danielpetrica
 sites:
     - name: Danielpetrica.com
       url: https://danielpetrica.com
@@ -36,6 +38,7 @@ status-website:
   cname: uptime.danielpetrica.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
+  theme: night 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime - Danielpetrica
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -45,6 +48,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: My site    
+      href: https://danielpetrica.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
