@@ -72,6 +72,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "PolifemoFE.it",
+    "url": "https://polifemoFe.it/",
+    "icon": "https://favicons.githubusercontent.com/polifemofe.it",
+    "slug": "polifemo-fe-it",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1005,
+    "timeDay": 1005,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H24",
     "url": "$SECRET_SITE_H24",
     "icon": "https://favicons.githubusercontent.com/null",
