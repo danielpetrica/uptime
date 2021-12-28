@@ -8,6 +8,8 @@ assignees:
 sites:
     - name: Danielpetrica.com
       url: https://danielpetrica.com
+    - name: og-image.danielpetrica.com
+      url: https://og-image.danielpetrica.com
     - name: Strapi
       url: https://strapi.padserver.xyz/
     - name: UnioneUniversitaria.it
