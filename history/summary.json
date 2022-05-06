@@ -130,17 +130,17 @@
     "url": "$SITE_REGGIO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "reggio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 667,
-    "timeWeek": 699,
-    "timeMonth": 754,
-    "timeYear": 851,
+    "time": 865,
+    "timeDay": 3384,
+    "timeWeek": 1374,
+    "timeMonth": 926,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   }
 ]
