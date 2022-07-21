@@ -4,7 +4,7 @@
     "url": "https://danielpetrica.com",
     "icon": "https://favicons.githubusercontent.com/danielpetrica.com",
     "slug": "danielpetrica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 1622,
     "timeDay": 1438,
     "timeWeek": 1603,
-    "timeMonth": 2096,
+    "timeMonth": 2125,
     "timeYear": 1622,
     "dailyMinutesDown": {}
   },
