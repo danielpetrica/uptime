@@ -10,8 +10,8 @@ sites:
       url: https://danielpetrica.com
     - name: og-image.danielpetrica.com
       url: https://og-image.danielpetrica.com
-    - name: Strapi
-      url: https://strapi.padserver.xyz/
+    #- name: Strapi
+     # url: https://strapi.padserver.xyz/
     - name: UnioneUniversitaria.it
       url: https://www.unioneuniversitaria.it
     - name: LoStrilloneUniversitario.it
@@ -29,8 +29,8 @@ sites:
 #   - name: Test for HEAD
 #     method: HEAD
 #     url: https://www.google.com
-    - name: H24
-      url: $SECRET_SITE_H24
+#    - name: H24
+#      url: $SECRET_SITE_H24
     - name: Reggio
       url: $SITE_REGGIO
 
