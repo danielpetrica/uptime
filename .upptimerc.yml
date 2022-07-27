@@ -31,8 +31,8 @@ sites:
 #     url: https://www.google.com
 #    - name: H24
 #      url: $SECRET_SITE_H24
-    - name: Reggio
-      url: $SITE_REGGIO
+#    - name: Reggio
+#      url: $SITE_REGGIO
 
 #   - name: TCP ping
 #     url: 1.1.1.1
