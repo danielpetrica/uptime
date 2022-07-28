@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 668,
-    "timeWeek": 746,
+    "timeWeek": 779,
     "timeMonth": 320,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://og-image.danielpetrica.com",
     "icon": "https://favicons.githubusercontent.com/og-image.danielpetrica.com",
     "slug": "og-image-danielpetrica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 1618,
     "timeDay": 1551,
     "timeWeek": 1516,
-    "timeMonth": 1791,
+    "timeMonth": 1811,
     "timeYear": 1618,
     "dailyMinutesDown": {}
   }
