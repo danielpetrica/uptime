@@ -76,17 +76,17 @@
     "url": "https://polifemoFe.it/",
     "icon": "https://favicons.githubusercontent.com/polifemofe.it",
     "slug": "polifemo-fe-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1739,
-    "timeDay": 1145,
-    "timeWeek": 2118,
-    "timeMonth": 2463,
-    "timeYear": 1739,
+    "time": 1741,
+    "timeDay": 1824,
+    "timeWeek": 2166,
+    "timeMonth": 2464,
+    "timeYear": 1741,
     "dailyMinutesDown": {}
   }
 ]
